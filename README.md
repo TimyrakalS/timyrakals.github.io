@@ -34,7 +34,7 @@ The following database matrix was built out in the OpenEMR sandbox environment t
 *Caption: Figure 1: OpenEMR registration interface proving demographic validation and active tracking metrics.*
 
 #### Phase B: Encounter Mapping & Service Tracking
-![Patient Encounter Charting](Patient3.png)  
+![Patient Encounter Charting](Patient5.png)  
 *Caption: Figure 2: Simulation of a complex auto-accident charting encounter. Note the integration of specialized billing notes to prevent upstream Revenue Cycle Management (RCM) friction.*
 
 ***
