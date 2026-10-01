@@ -22,7 +22,7 @@ The following database matrix was built out in the OpenEMR sandbox environment t
 | :--- | :--- | :--- | :--- |
 | **Robert Henderson** | UnitedHealthcare | Hypertension Follow-up | `I10` (Essential Hypertension) |
 | **Maria Rodriguez-Cruz** | Aetna Choice POS II | Acute Pharyngitis / Sore Throat | `J02.9` (Acute Pharyngitis, Unspecified) |
-| **James Litman** | UHC / Auto Ins Flag | Right Wrist Pain (Auto Accident) | `M79.641` (Pain in Right Wrist) |
+| **James Litman** | UHC / Auto Ins Flag | Right Wrist Pain (Auto Accident) | `M25.531` (Pain in Right Wrist) |
 
 ***
 
@@ -31,7 +31,7 @@ The following database matrix was built out in the OpenEMR sandbox environment t
 
 #### Phase A: Patient Intake & Demographics Matching
 ![Patient Demographics Intake](Patient4.png)  
-*Caption: Figure 1: OpenEMR registration interface proving demographic validation, active tracking metrics, and structured payer mapping.*
+*Caption: Figure 1: OpenEMR registration interface proving demographic validation and active tracking metrics.*
 
 #### Phase B: Encounter Mapping & Service Tracking
 ![Patient Encounter Charting](Patient3.png)  
