@@ -30,7 +30,7 @@ The following database matrix was built out in the OpenEMR sandbox environment t
 *Note: All data entries are entirely fictional and designed strictly to simulate real-world EHR administration.*
 
 #### Phase A: Patient Intake & Demographics Matching
-![Patient Demographics Intake](Patient0.png)  
+![Patient Demographics Intake](Patient4.png)  
 *Caption: Figure 1: OpenEMR registration interface proving demographic validation, active tracking metrics, and structured payer mapping.*
 
 #### Phase B: Encounter Mapping & Service Tracking
