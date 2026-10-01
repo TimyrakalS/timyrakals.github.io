@@ -41,6 +41,6 @@ The following database matrix was built out in the OpenEMR sandbox environment t
 
 ### 5. Transferable Tech & Operations Competencies
 * **EHR System Fluency:** Direct navigation and database updates within ONC-certified ambulatory systems.
-* **Workflow Automation:** Mapping health data pipelines similarly to managed ITIL/ticketing platforms (e.g., ConnectWise PSA).
+* **Workflow Automation:** Mapping health data pipelines similarly to managed ticketing platforms (e.g., ConnectWise PSA).
 * **Medical Office Governance:** Understanding the intersection of data integrity, ICD-10 clinical coding, and HIPAA Privacy compliance as taught via **Johns Hopkins University**.
 
